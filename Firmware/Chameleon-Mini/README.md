@@ -11,8 +11,9 @@ For compiling under Windows you need to do the following:
 Linux
 -----
 For compiling under Linux you need to execute the following:
+
 `sudo apt-get install gcc-avr binutils-avr gdb-avr avr-libc avrdude`
 
 Then you should be good to go to build the firmware by typing in the following:
-`make`
 
+`make`
